@@ -4,6 +4,7 @@ title:  "[VS Code] 커스텀 자동완성, Snippets"
 categories:
   - C Sharp
 tags:
+  - [Editor, VS Code]
 
 toc: true
 toc_sticky: true
