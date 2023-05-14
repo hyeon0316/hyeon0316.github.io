@@ -12,14 +12,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "C Sharp" %}
-                        <li><a href="/categories/cpp" class="">C# ({{category[1].size}})</a></li>
+                        <li><a href="/categories/csharp" class="">C# ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             </li>
       <li>	
             <br>      
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fansohxxn.github.io&count_bg=%23FFCC35&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeon0316%2Fhyeon0316.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
       </li>
   </ul>
 </nav>
