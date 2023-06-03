@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "내가 보려고 만든 공부노트✏"
+title                    : "내가 보려고 만든 공부노트📝"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyeon"
