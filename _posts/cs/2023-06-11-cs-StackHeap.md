@@ -82,7 +82,7 @@ Class를 상황에 맞게 사용하는 법에 대해 공부하면서 포스팅 �
 
 ## 참고 자료
 
-- http://www.tcpschool.com/c/c_memory_structure
+- (http://www.tcpschool.com/c/c_memory_structure)
 
 
 ***
