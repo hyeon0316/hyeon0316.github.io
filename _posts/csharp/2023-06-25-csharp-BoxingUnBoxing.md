@@ -40,7 +40,7 @@ int b = (int)o; //unBoxing
     `UnBoxing`은 int b = (int)o; 와 같이 명시적으로 타입을 지정해야 하며 `UnBoxing`은 기본적으로 `Boxing` 된 데이터에 대해서만 수행 가능하다. (오류 발생)
 
 
-### 성능 문제
+## 성능 문제
 
 `Boxing`과 `UnBoxing`을 사용하여 `값 형식`의 다형성을 활용하거나 등으로 사용할 수 있지만 그 과정에서 성능 문제가 발생할 수 있다.
 
@@ -57,7 +57,7 @@ int b = (int)o; //unBoxing
 `Boxing`과 `UnBoxing`을 자주 한다는 것은 메모리의 복사가 빈번하게 일어난다는 의미이다.
 
 
-### Generic
+## Generic
 
 `Boxing`과 `UnBoxing`의 성능적인 문제 때문에 `Generic`을 사용하는 것이 권장되고 있다.
 
